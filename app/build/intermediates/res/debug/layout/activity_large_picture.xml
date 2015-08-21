@@ -1,0 +1,114 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".LargePictureActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/LargeImageView"
+            android:layout_width="fill_parent"
+            android:layout_height="454dp"
+            android:src="@drawable/card_back" />
+
+        <TextView
+            android:id="@+id/LargeHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/normal_line"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/LargeCardTextHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/half_line"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/LargeCardText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text" />
+
+        <TextView
+            android:id="@+id/LargeFlavorHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/half_line"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/FlavorText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text" />
+
+        <TextView
+            android:id="@+id/LargeEditionsHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/normal_line"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/LargeEditions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text" />
+
+        <TextView
+            android:id="@+id/LargeLegalityHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/half_line"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/LegalityText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text" />
+
+        <TextView
+            android:id="@+id/LargeRulingsHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/half_line"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/RulingsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="@dimen/larger_text" />
+
+    </LinearLayout>
+
+</ScrollView>
+<!-- From: file:/E:/GitHub/MTGKusovky/app/src/main/res/layout/activity_large_picture.xml -->

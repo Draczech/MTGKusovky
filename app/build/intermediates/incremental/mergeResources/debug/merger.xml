@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\GitHub\MTGKusovky\app\src\main\res"><file name="ads" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\ads.png" qualifiers="hdpi" type="drawable"/><file name="ars" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\ars.png" qualifiers="hdpi" type="drawable"/><file name="expandable_arrow" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\expandable_arrow.xml" qualifiers="hdpi" type="drawable"/><file name="grey_button" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\grey_button.xml" qualifiers="hdpi" type="drawable"/><file name="ic_action_search" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\ic_action_search.png" qualifiers="hdpi" type="drawable"/><file name="ic_action_settings" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\ic_action_settings.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="layer_down" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\layer_down.xml" qualifiers="hdpi" type="drawable"/><file name="layer_right" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-hdpi\layer_right.xml" qualifiers="hdpi" type="drawable"/><file name="arrow_down" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\arrow_down.png" qualifiers="mdpi" type="drawable"/><file name="arrow_right" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\arrow_right.png" qualifiers="mdpi" type="drawable"/><file name="authority" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\authority.jpg" qualifiers="mdpi" type="drawable"/><file name="black" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\black.png" qualifiers="mdpi" type="drawable"/><file name="blue" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\blue.png" qualifiers="mdpi" type="drawable"/><file name="card_back" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\card_back.jpg" qualifiers="mdpi" type="drawable"/><file name="check" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\check.png" qualifiers="mdpi" type="drawable"/><file name="colorless" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\colorless.png" qualifiers="mdpi" type="drawable"/><file name="common" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\common.png" qualifiers="mdpi" type="drawable"/><file name="green" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\green.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_search" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\ic_action_search.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_settings" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\ic_action_settings.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="mentor" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\mentor.jpg" qualifiers="mdpi" type="drawable"/><file name="mythic" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\mythic.png" qualifiers="mdpi" type="drawable"/><file name="other" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\other.png" qualifiers="mdpi" type="drawable"/><file name="question" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\question.png" qualifiers="mdpi" type="drawable"/><file name="rare" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\rare.png" qualifiers="mdpi" type="drawable"/><file name="red" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\red.png" qualifiers="mdpi" type="drawable"/><file name="snow" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\snow.png" qualifiers="mdpi" type="drawable"/><file name="tradingpost" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\tradingpost.jpg" qualifiers="mdpi" type="drawable"/><file name="uncommon" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\uncommon.png" qualifiers="mdpi" type="drawable"/><file name="white" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-mdpi\white.png" qualifiers="mdpi" type="drawable"/><file name="ic_action_search" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-xhdpi\ic_action_search.png" qualifiers="xhdpi" type="drawable"/><file name="ic_action_settings" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-xhdpi\ic_action_settings.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_action_search" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-xxhdpi\ic_action_search.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_action_settings" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-xxhdpi\ic_action_settings.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_launcher" path="E:\GitHub\MTGKusovky\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="activity_card_detail" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\activity_card_detail.xml" qualifiers="" type="layout"/><file name="activity_disclaimer" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\activity_disclaimer.xml" qualifiers="" type="layout"/><file name="activity_help" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\activity_help.xml" qualifiers="" type="layout"/><file name="activity_info" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\activity_info.xml" qualifiers="" type="layout"/><file name="activity_large_picture" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\activity_large_picture.xml" qualifiers="" type="layout"/><file name="activity_results_list" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\activity_results_list.xml" qualifiers="" type="layout"/><file name="activity_search" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\activity_search.xml" qualifiers="" type="layout"/><file name="activity_settings" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\activity_settings.xml" qualifiers="" type="layout"/><file name="availability_group_item" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\availability_group_item.xml" qualifiers="" type="layout"/><file name="availability_list_item" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\availability_list_item.xml" qualifiers="" type="layout"/><file name="detail_header" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\detail_header.xml" qualifiers="" type="layout"/><file name="result_list_item" path="E:\GitHub\MTGKusovky\app\src\main\res\layout\result_list_item.xml" qualifiers="" type="layout"/><file name="activity_search" path="E:\GitHub\MTGKusovky\app\src\main\res\layout-land\activity_search.xml" qualifiers="land" type="layout"/><file name="card_detail" path="E:\GitHub\MTGKusovky\app\src\main\res\menu\card_detail.xml" qualifiers="" type="menu"/><file name="disclaimer" path="E:\GitHub\MTGKusovky\app\src\main\res\menu\disclaimer.xml" qualifiers="" type="menu"/><file name="help" path="E:\GitHub\MTGKusovky\app\src\main\res\menu\help.xml" qualifiers="" type="menu"/><file name="info" path="E:\GitHub\MTGKusovky\app\src\main\res\menu\info.xml" qualifiers="" type="menu"/><file name="large_picture" path="E:\GitHub\MTGKusovky\app\src\main\res\menu\large_picture.xml" qualifiers="" type="menu"/><file name="results_list" path="E:\GitHub\MTGKusovky\app\src\main\res\menu\results_list.xml" qualifiers="" type="menu"/><file name="search" path="E:\GitHub\MTGKusovky\app\src\main\res\menu\search.xml" qualifiers="" type="menu"/><file name="settings" path="E:\GitHub\MTGKusovky\app\src\main\res\menu\settings.xml" qualifiers="" type="menu"/><file path="E:\GitHub\MTGKusovky\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="larger_text">18dp</dimen><dimen name="double_line">40dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="inverted_line">-20dp</dimen><dimen name="quarter_line">5dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="large_text">25dp</dimen><dimen name="half_line">10dp</dimen><dimen name="normal_line">20dp</dimen></file><file path="E:\GitHub\MTGKusovky\app\src\main\res\values\strings.xml" qualifiers=""><string name="history">history</string><string name="pref_desc_img">Vypne/Zapne stahování obrázků karet z MtgCards.info. Vypněte, pokud chcete šetřit data.</string><string name="title_activity_large_picture">LargePictureActivity</string><string name="title_activity_settings">SettingsActivity</string><string name="delete_history_summary">Odstraní z paměti historii hledaných názvů karet.</string><string name="edition">Edice:</string><string name="canceled_tasks">Bohužel došlo k chybě u následujících obchodů:\n</string><plurals name="history_deleted">
+        <item quantity="zero">Historie neobsahuje žádné záznamy.</item>
+        <item quantity="one">Byl smazán jeden záznam.</item>
+        <item quantity="few">Byly smazány %d záznamy.</item>
+        <item quantity="other">Bylo smazáno %d záznamů.</item>        
+    </plurals><string name="help_tips_header">Tipy:</string><string name="app_description">Aplikace MTGKusovky byla vytvořena jako semestrální práce z předmětu KIV/MKZ vyučovaného na Fakultě aplikovaných věd Západočeské univerzity v Plzni kde v současné době (2012/2013) studuji.\nZadání semestrální práce bylo libovolné, takže jsem si vybral téma, které je mi blízké - Magic The Gathering\nAplikaci jsem vytvořil rovněž proto, že mi podobný nástroj na domácím trhu poněkud scházel.\nNutno podotknout, že aplikace byla vytvořena a odladěna primárně pro mé zařízení - Sony Xperia P. S čímž souvisí (ne)použitelnost na některých jiných zařízeních lišících se verzí systému nebo hardwarem.</string><string name="availability">Dostupnost karty:</string><string name="pref_img_sum_off">Stahování obrázků je vypnuto. Šetří data a místo na disku.</string><string name="title_activity_help">HelpActivity</string><string name="info_use_header">Použití aplikace:</string><string name="manacost">Manacost:</string><string name="type">Typ:</string><string name="najada">Najáda</string><string name="help_summary">Jak aplikace funguje, a na co dát pozor</string><string name="rytir">Černý Rytíř</string><string name="title_activity_disclaimer">DisclaimerActivity</string><string name="top_magic">TopMagic</string><string name="sample">Příklad ceny</string><string name="results">Nalezené karty:</string><string name="information">Informace:</string><string name="info_button">info_button</string><string name="pictures">Obrázky a Historie:</string><string name="title_activity_card_detail">CardDetailActivity</string><string name="disclaimer_title">Disclaimer</string><string name="no_name">Byl zadán neplatný název karty!</string><string name="loading">Načítání…</string><string name="app_disclaimer">Mějte prosím na paměti, že aplikace byla vytvořena především pro akademické účely a pro zábavu. Nejedná se o komerční projekt, ani nepočítám s jejím masovým rozšířením. Aplikace může rovněž obsahovat rozličné chyby, bugy a nepřesnosti. Doufám, že v budoucnu ji budu moci ještě lépe odladit, nicméně i tak vás prosím o schovívavost. Děkuji</string><string name="legality">Hratelnost karty:</string><string name="hist_one">Byl smazán jeden záznam.</string><string name="info_desc_header">O aplikaci:</string><string name="img_other">Bylo smazáno %d obrázků.</string><string name="pref_tit_img">Stahovat obrázky karet</string><string name="help_button">help_button</string><string-array name="Sets">
+        <item>Limited Edition Alpha</item>
+        <item>Limited Edition Beta</item>
+        <item>Unlimited Edition</item>
+        <item>Arabian Nights</item>
+        <item>Dragon Con</item>
+        <item>Antiquities</item>
+        <item>Revised Edition</item>
+        <item>Legends</item>
+        <item>The Dark</item>
+        <item>Fallen Empires</item>
+        <item>Legend Membership</item>
+        <item>Media Inserts</item>
+        <item>Fourth Edition</item>
+        <item>Ice Age</item>
+        <item>Chronicles</item>
+        <item>Homelands</item>
+        <item>Alliances</item>
+        <item>Rivals Quick Start Set</item>
+        <item>Arena League</item>
+        <item>Celebration</item>
+        <item>Mirage</item>
+        <item>Introductory Two-Player Set</item>
+        <item>Visions</item>
+        <item>Fifth Edition</item>
+        <item>Vanguard</item>
+        <item>Portal Demo Game</item>
+        <item>Portal</item>
+        <item>Weatherlight</item>
+        <item>Prerelease Events</item>
+        <item>Tempest</item>
+        <item>Stronghold</item>
+        <item>Portal Second Age</item>
+        <item>Judge Gift Program</item>
+        <item>Exodus</item>
+        <item>Unglued</item>
+        <item>Asia Pacific Land Program</item>
+        <item>Urza\'s Saga</item>
+        <item>Anthologies</item>
+        <item>Urza\'s Legacy</item>
+        <item>Classic Sixth Edition</item>
+        <item>Portal Three Kingdoms</item>
+        <item>Urza\'s Destiny</item>
+        <item>Starter 1999</item>
+        <item>Guru</item>
+        <item>Worlds</item>
+        <item>Wizards of the Coast Online Store</item>
+        <item>Mercadian Masques</item>
+        <item>Battle Royale Box Set</item>
+        <item>Super Series</item>
+        <item>Friday Night Magic</item>
+        <item>European Land Program</item>
+        <item>Nemesis</item>
+        <item>Starter 2000</item>
+        <item>Prophecy</item>
+        <item>Beatdown Box Set</item>
+        <item>Invasion</item>
+        <item>Planeshift</item>
+        <item>Seventh Edition</item>
+        <item>Magic Player Rewards</item>
+        <item>Apocalypse</item>
+        <item>Odyssey</item>
+        <item>Deckmasters</item>
+        <item>Torment</item>
+        <item>Judgment</item>
+        <item>Onslaught</item>
+        <item>Legions</item>
+        <item>Scourge</item>
+        <item>Release Events</item>
+        <item>Eighth Edition</item>
+        <item>Mirrodin</item>
+        <item>Darksteel</item>
+        <item>Fifth Dawn</item>
+        <item>Champions of Kamigawa</item>
+        <item>Unhinged</item>
+        <item>Betrayers of Kamigawa</item>
+        <item>Saviors of Kamigawa</item>
+        <item>Ninth Edition</item>
+        <item>Ravnica: City of Guilds</item>
+        <item>Two-Headed Giant Tournament</item>
+        <item>WPN and Gateway</item>
+        <item>Guildpact</item>
+        <item>Champs and States</item>
+        <item>Dissension</item>
+        <item>Coldsnap</item>
+        <item>Time Spiral</item>
+        <item>Time Spiral "Timeshifted"</item>
+        <item>Happy Holidays</item>
+        <item>Planar Chaos</item>
+        <item>Pro Tour</item>
+        <item>Grand Prix</item>
+        <item>Future Sight</item>
+        <item>Tenth Edition</item>
+        <item>Magic Game Day</item>
+        <item>Summer of Magic</item>
+        <item>Masters Edition</item>
+        <item>Lorwyn</item>
+        <item>DD: Elves vs. Goblins</item>
+        <item>Morningtide</item>
+        <item>Launch Parties</item>
+        <item>15th Anniversary</item>
+        <item>Shadowmoor</item>
+        <item>Eventide</item>
+        <item>FTV: Dragons</item>
+        <item>Masters Edition II</item>
+        <item>Shards of Alara</item>
+        <item>DD: Jace vs. Chandra</item>
+        <item>Conflux</item>
+        <item>DD: Divine vs. Demonic</item>
+        <item>Alara Reborn</item>
+        <item>Magic 2010</item>
+        <item>FTV: Exiled</item>
+        <item>Planechase</item>
+        <item>Masters Edition III</item>
+        <item>Zendikar</item>
+        <item>DD: Garruk vs. Liliana</item>
+        <item>PDS: Slivers</item>
+        <item>Worldwake</item>
+        <item>DD: Phyrexia vs. the Coalition</item>
+        <item>Rise of the Eldrazi</item>
+        <item>Duels of the Planeswalkers</item>
+        <item>Archenemy</item>
+        <item>Magic 2011</item>
+        <item>FTV: Relics</item>
+        <item>DD: Elspeth vs. Tezzeret</item>
+        <item>Scars of Mirrodin</item>
+        <item>PDS: Fire and Lightning</item>
+        <item>Masters Edition IV</item>
+        <item>Mirrodin Besieged</item>
+        <item>DD: Knights vs. Dragons</item>
+        <item>New Phyrexia</item>
+        <item>Commander</item>
+        <item>Magic 2012</item>
+        <item>FTV: Legends</item>
+        <item>DD: Ajani vs. Nicol Bolas</item>
+        <item>Innistrad</item>
+        <item>PDS: Graveborn</item>
+        <item>Dark Ascension</item>
+        <item>DD: Venser vs. Koth</item>
+        <item>Avacyn Restored</item>
+        <item>Planechase 2012 Edition</item>
+        <item>Magic 2013</item>
+        <item>FTV: Realms</item>
+        <item>DD: Izzet vs. Golgari</item>
+        <item>Return to Ravnica</item>
+        <item>Commander\'s Arsenal</item>
+        <item>Gatecrash</item>
+        <item>DD: Sorin vs. Tibalt</item>
+        <item>World Magic Cup Qualifiers</item>
+        <item>Dragon\'s Maze</item>
+        <item>Modern Masters</item>
+        <item>Magic 2014</item>
+        <item>FTV: Twenty</item>
+        <item>DD: Heroes vs. Monsters</item>
+        <item>Theros</item>
+        <item>Commander 2013 Edition</item>
+        <item>Born of the Gods</item>
+        <item>DD: Jace vs. Vraska</item>
+        <item>Journey into Nyx</item>
+        <item>Modern Event Deck 2014</item>
+        <item>Magic: The Gathering—Conspiracy</item>
+        <item>Vintage Masters</item>
+        <item>Magic 2015</item>
+        <item>FTV: Annihilation</item>
+        <item>DD: Speed vs. Cunning</item>
+        <item>Khans of Tarkir</item>
+        <item>Commander 2014</item>
+        <item>DD: Anthology</item>
+        <item>Fate Reforged</item>
+    </string-array><string name="shop">Obchod:</string><string name="app_use">Uživatel má možnost zjistit dostupnost a cenu karet ve vybraných obchodech. Případně ji může použít k přístupu k údajům ze stránky MagicCards.info, pokud  žádný obchod nevybere. Rovněž je možné aplikaci využívat pro stahování obrázků karet (které jsou posléze přístupné i offline). K informacím o kartě z MagicCards.info a obrázkům karet lze jednoduše přistupovat kliknutím na náhled karty na obrazovce s jejím detailem. (A to i když nebyla karta nalezena v žádném obchodě).</string><string name="hist_zero">Historie neobsahuje žádné záznamy.</string><string name="delete_history_button">Odstraní z paměti historii hledaných názvů karet.</string><string name="hist_few">Byly smazány %d záznamy.</string><string name="app_name">MTGKusovky</string><string name="disclaimer_text_en">All symbols, logos and logos derived from them used in this app and pictures downloaded by using this app are copyrighted by Wizards of the Coast. All mentioned images and parts of them are used for illustrational purposes. So it is believed that use of these images qualifies as Fair Use under United States Copyright Law.\nNeither the Wizards of the Coast company nor any of the shops used for search did not participated on this app development. This app was created for non-profit use. Its only goal is to help Magic the Gathering players, not to promote any of the shops mentioned in the app.</string><string name="app_limitations">Vyhledávání karet je omezeno počtem zhruba 60 kusů. U MagicCards.info se jedná o počet různých karet, u obchodů jde o počet nabízených artiklů (různé verze téže karty, tokeny, apod.) Rovněž se liší řazení výsledků u jednotlivých obchodů.</string><string name="not_available">Je možné, že vámi vybraný obchod danou kartu nenabízí.</string><string name="img_one">Byl smazán jeden obrázek.</string><string name="rulings">Dodatky k pravidlům:</string><string name="hledej">Hledej</string><string name="delete_images_summary">Odstraní z paměti všechny obrázky karet stažené pomocí této aplikace.</string><string name="action_search">Nové hledání</string><string name="img_few">Byly smazány %d obrázky.</string><string name="warning_slow">(V závislosti na zadané kartě a vybraných obchodech může akce trvat až několik desítek vteřin.)</string><string name="pref_img_sum_on">Stahování obrázků je zapnuto. Jééééé</string><string name="author">Bc. Milan Nikl</string><string name="help_title">Jak používat</string><string name="disclaimer_text_cz">Všechny symboly, loga a loga od nich odvozená obsažená v této aplikaci, a rovněž obrázky stažené díky této aplikaci jsou majetkem společnosti Wizards of the Coast. Autor této aplikace si nedělá žádné nároky na jejich vlastnictví. Materiály obsažené v této aplikaci jsou použity pouze pro ilustrativní účely.\nRovněž bych rád uvedl, že na aplikaci a jejím vývoji se nepodílela ani společnost Wizards of the Coast, ani žádný z internetových obchodů, na jejichž stránkách probíhá vyhledávání karet. Aplikace nebyla vytvořena za účelem zisku, či obohacení autora. Ani není jejím účelem propagovat některý z uvedených obchodů.</string><string name="version">Verze:</string><plurals name="images_deleted">
+        <item quantity="zero">Složka s obrázky není vytvořena.</item>
+        <item quantity="one">Byl smazán jeden obrázek.</item>
+        <item quantity="few">Byly smazány %d obrázky.</item>
+        <item quantity="other">Bylo smazáno %d obrázků.</item>        
+    </plurals><string name="app_tips">Při vyhledávání karet se snažte název karty zadat co nejpřesněji. Přesný název = méně možných výsledků a tedy kratší hledání a úspora při přenosu dat.  Zadávejte anglické názvy karet.</string><string name="flavor">Flavor karty:</string><string name="delete_images">Smazat obrázky karet</string><string name="name">Název:</string><string name="settings_title">Možnosti</string><string name="check_connection">Případně zkontrolujte své připojení k internetu.</string><string name="img_zero">Složka s obrázky není vytvořena.</string><string name="data">Stahují se data.</string><string name="img_folder">MTG_Kusovky</string><string name="title_activity_results_list">ResultsListActivity</string><string name="zadej">Zadejte jméno karty</string><string name="cardText">Text karty:</string><string name="select_all">Vybrat vše</string><string name="change_input">Zkuste upravit název hledané karty.</string><string name="lotus">Black Lotus</string><string name="delete_images_button">delete_images_button</string><string name="deselect_all">Zrušit vše</string><string name="disclaimer_button">disclaimer_button</string><string name="rishada">Rishada</string><string name="rarity">Rarita:</string><string name="info_summary">Pokud vás zajímá, proč aplikace vznikla…</string><string name="no_access">Zkontrolujte prosím připojení k internetu.</string><string name="stock">Skladem:</string><string name="help_limits_header">Omezení aplikace:</string><string name="mystic">MysticShop</string><string name="tolarie">Tolarie</string><string name="hist_other">Bylo smazáno %d záznamů.</string><string name="with_images">with_images</string><string name="title_activity_info">InfoActivity</string><string name="info_title">Informace o aplikaci</string><string name="price">Cena:</string><string name="action_settings">Možnosti</string><string name="not_done_tasks">Následující obchody nebyly zpracovány:</string><string name="delete_history">Vymazat historii hledání</string><string name="editions_header">Karta vyšla:</string><string name="empty_result">Nebyly nalezeny žádné odpovídající výsledky.</string><string name="disclaimer_summary">Právní doložka (tak trochu)</string><string name="help_disclaimer_header">Dodatek:</string></file><file path="E:\GitHub\MTGKusovky\app\src\main\res\values\strings_activity_settings.xml" qualifiers=""><string name="pref_header_notifications">Notifications</string><string name="pref_title_system_sync_settings">System sync settings</string><string name="pref_default_display_name">John Smith</string><string name="pref_description_social_recommendations">Recommendations for people to contact based on your message history</string><string name="pref_title_add_friends_to_messages">Add friends to messages</string><string name="pref_title_vibrate">Vibrate</string><string name="pref_header_data_sync">Data &amp; sync</string><string name="pref_title_sync_frequency">Sync frequency</string><string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array><string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array><string name="pref_ringtone_silent">Silent</string><string name="pref_title_social_recommendations">Enable social recommendations</string><string name="pref_title_ringtone">Ringtone</string><string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array><string name="pref_header_general">General</string><string name="pref_title_display_name">Display name</string><string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array><string name="pref_title_new_message_notifications">New message notifications</string></file><file path="E:\GitHub\MTGKusovky\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="E:\GitHub\MTGKusovky\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="E:\GitHub\MTGKusovky\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\GitHub\MTGKusovky\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="preferences" path="E:\GitHub\MTGKusovky\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/><file name="pref_data_sync" path="E:\GitHub\MTGKusovky\app\src\main\res\xml\pref_data_sync.xml" qualifiers="" type="xml"/><file name="pref_general" path="E:\GitHub\MTGKusovky\app\src\main\res\xml\pref_general.xml" qualifiers="" type="xml"/><file name="pref_headers" path="E:\GitHub\MTGKusovky\app\src\main\res\xml\pref_headers.xml" qualifiers="" type="xml"/><file name="pref_notification" path="E:\GitHub\MTGKusovky\app\src\main\res\xml\pref_notification.xml" qualifiers="" type="xml"/></source><source path="E:\GitHub\MTGKusovky\app\build\generated\res\rs\debug"/><source path="E:\GitHub\MTGKusovky\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="E:\GitHub\MTGKusovky\app\src\debug\res"/></dataSet><mergedItems/></merger>

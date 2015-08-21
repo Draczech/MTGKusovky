@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pictures" android:key="pref_key_pictures_settings">    
+    	<CheckBoxPreference android:title="@string/pref_tit_img" android:key="@string/with_images" android:summaryOff="@string/pref_img_sum_off" android:defaultValue="true" android:summaryOn="@string/pref_img_sum_on"/>
+    	<Preference android:summary="@string/delete_images_summary" android:title="@string/delete_images" android:key="@string/delete_images_button"/>
+    	<Preference android:summary="@string/delete_history_summary" android:title="@string/delete_history" android:key="@string/delete_history_button"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/information" android:key="pref_key_information_settings"> 
+    	<Preference android:summary="@string/help_summary" android:title="@string/help_title" android:key="@string/help_button" />
+    	<Preference android:summary="@string/info_summary" android:title="@string/info_title" android:key="@string/info_button"/>
+    	<Preference android:key="@string/disclaimer_button" android:title="@string/disclaimer_title" android:summary="@string/disclaimer_summary"/>
+    </PreferenceCategory>
+    
+</PreferenceScreen>
+<!-- From: file:/E:/GitHub/MTGKusovky/app/src/main/res/xml/preferences.xml -->

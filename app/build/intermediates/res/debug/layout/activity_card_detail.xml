@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".CardDetailActivity" >
+
+    <ExpandableListView
+        android:id="@+id/ExpandableAvailability"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:groupIndicator="@drawable/expandable_arrow"
+        android:indicatorLeft="@dimen/half_line" >
+
+    </ExpandableListView>
+
+</LinearLayout><!-- From: file:/E:/GitHub/MTGKusovky/app/src/main/res/layout/activity_card_detail.xml -->

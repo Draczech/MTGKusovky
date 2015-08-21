@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cz.zcu.mkz2013"
+    android:versionCode="8"
+    android:versionName="1.5" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="cz.zcu.mkz2013.SearchActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cz.zcu.mkz2013.ResultsListActivity"
+            android:label="@string/title_activity_results_list" >
+        </activity>
+        <activity
+            android:name="cz.zcu.mkz2013.CardDetailActivity"
+            android:label="@string/title_activity_card_detail" >
+        </activity>
+        <activity
+            android:name="cz.zcu.mkz2013.LargePictureActivity"
+            android:label="@string/title_activity_large_picture" >
+        </activity>
+        <activity
+            android:name="cz.zcu.mkz2013.SettingsActivity"
+            android:label="@string/title_activity_settings" >
+        </activity>
+        <activity
+            android:name="cz.zcu.mkz2013.InfoActivity"
+            android:label="@string/title_activity_info" >
+        </activity>
+        <activity
+            android:name="cz.zcu.mkz2013.HelpActivity"
+            android:label="@string/title_activity_help" >
+        </activity>
+        <activity
+            android:name="cz.zcu.mkz2013.DisclaimerActivity"
+            android:label="@string/title_activity_disclaimer" >
+        </activity>
+    </application>
+
+</manifest>

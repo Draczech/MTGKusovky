@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:clickable="false"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:longClickable="false"
+    android:paddingBottom="@dimen/quarter_line"
+    android:paddingLeft="@dimen/half_line"
+    android:paddingTop="@dimen/quarter_line" >
+
+    <TextView
+        android:id="@+id/AvaShopHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/shop"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/AvaShop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/AvaShopHeader"
+        android:layout_marginLeft="@dimen/normal_line"
+        android:layout_toRightOf="@+id/AvaShopHeader"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/AvaStateHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/AvaShopHeader"
+        android:layout_below="@+id/AvaShopHeader"
+        android:text="@string/version"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/AvaState"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/AvaStateHeader"
+        android:layout_alignLeft="@id/AvaShop"
+        android:layout_below="@id/AvaShop"
+        android:text="TextView"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/larger_text" />
+    
+    <TextView
+        android:id="@+id/AvaStockHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/AvaShopHeader"
+        android:layout_below="@id/AvaState"
+        android:text="@string/stock"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/AvaStock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/AvaStockHeader"
+        android:layout_alignLeft="@id/AvaShop"
+        android:layout_marginRight="@dimen/normal_line"
+        android:layout_toRightOf="@id/AvaStockHeader"
+        android:text="X Ks"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/AvaPriceHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/AvaStockHeader"
+        android:layout_marginLeft="@dimen/normal_line"
+        android:layout_toRightOf="@id/AvaStock"
+        android:text="@string/price"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/AvaPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/AvaPriceHeader"
+        android:layout_marginLeft="@dimen/half_line"
+        android:layout_toRightOf="@id/AvaPriceHeader"
+        android:text="X Kč"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+
+</RelativeLayout>
+<!-- From: file:/E:/GitHub/MTGKusovky/app/src/main/res/layout/availability_list_item.xml -->

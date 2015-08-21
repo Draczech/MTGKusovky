@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/half_line"
+    android:paddingBottom="@dimen/half_line"
+    android:paddingLeft="@dimen/half_line" >
+
+        <ImageButton
+            android:id="@+id/CardThumbnail"
+            android:layout_width="100dp"
+            android:layout_height="130dp"
+            android:layout_marginBottom="@dimen/half_line"
+            android:layout_marginRight="@dimen/half_line"
+            android:layout_marginTop="@dimen/half_line"
+            android:background="@android:color/transparent"
+            android:onClick="ShowImage"
+            android:scaleType="fitCenter"
+            android:src="@drawable/card_back" />
+
+        <TextView
+            android:id="@+id/CardHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/half_line"
+            android:layout_marginTop="@dimen/half_line"
+            android:layout_toRightOf="@id/CardThumbnail"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge" 
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/CardTypeHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/CardHeader"
+            android:layout_toRightOf="@id/CardThumbnail"
+            android:text="@string/type"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/CardType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/CardTypeHeader"
+            android:layout_toRightOf="@id/CardThumbnail"
+            android:text="TextView"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/ManaCostHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/CardType"
+            android:layout_marginTop="@dimen/half_line"
+            android:layout_toRightOf="@id/CardThumbnail"
+            android:text="@string/manacost"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/Manacost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ManaCostHeader"
+            android:layout_toRightOf="@id/CardThumbnail"
+            android:text="TextView"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+                
+        <TextView
+            android:id="@+id/AvailabilityHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Manacost"
+            android:layout_marginBottom="@dimen/normal_line"
+            android:layout_marginTop="@dimen/half_line"
+            android:text="@string/availability"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/RarityIcon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignBottom="@id/Manacost"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/normal_line"
+            android:background="@android:color/transparent"
+            android:scaleType="fitXY"
+            android:src="@drawable/other" />
+       
+    </RelativeLayout>
+<!-- From: file:/E:/GitHub/MTGKusovky/app/src/main/res/layout/detail_header.xml -->

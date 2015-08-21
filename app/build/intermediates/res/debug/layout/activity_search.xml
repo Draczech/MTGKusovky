@@ -1,0 +1,239 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".SearchActivity"
+    tools:ignore="ContentDescription" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        tools:ignore="ScrollViewSize" >
+
+        <AutoCompleteTextView
+            android:id="@+id/CardNameAutoComplete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/half_line"
+            android:layout_marginTop="@dimen/half_line"
+            android:ems="10"
+            android:gravity="center_vertical|center_horizontal"
+            android:hint="@string/zadej"
+            android:imeOptions="actionDone"
+            android:inputType="textAutoComplete"
+            android:maxLines="1"
+            android:textSize="@dimen/normal_line" >
+
+            <requestFocus />
+        </AutoCompleteTextView>
+
+        <RelativeLayout
+            android:id="@+id/SearchRelativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="@dimen/half_line"
+            android:gravity="center_horizontal" >
+
+            <ImageView
+                android:id="@+id/GroupIndicator"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="@dimen/half_line"
+                android:src="@drawable/black"
+                tools:ignore="ContentDescription" />
+
+            <CheckBox
+                android:id="@+id/RytirCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/GroupIndicator"
+                android:layout_alignTop="@id/GroupIndicator"
+                android:layout_toRightOf="@id/GroupIndicator"
+                android:text="@string/rytir"
+                android:textSize="@dimen/normal_line"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignLeft="@+id/GroupIndicator"
+                android:layout_below="@id/GroupIndicator"
+                android:layout_marginTop="@dimen/half_line"
+                android:src="@drawable/red"
+                tools:ignore="ContentDescription" />
+
+            <CheckBox
+                android:id="@+id/MysticCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageView2"
+                android:layout_alignLeft="@id/RytirCheckBox"
+                android:layout_alignTop="@id/imageView2"
+                android:layout_toRightOf="@id/imageView2"
+                android:text="@string/mystic"
+                android:textSize="@dimen/normal_line"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignLeft="@+id/GroupIndicator"
+                android:layout_below="@id/imageView2"
+                android:layout_marginTop="@dimen/half_line"
+                android:src="@drawable/green"
+                tools:ignore="ContentDescription" />
+
+            <CheckBox
+                android:id="@+id/NajadaCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageView3"
+                android:layout_alignLeft="@id/MysticCheckBox"
+                android:layout_alignTop="@id/imageView3"
+                android:layout_toRightOf="@id/imageView3"
+                android:text="@string/najada"
+                android:textSize="@dimen/normal_line"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignLeft="@+id/GroupIndicator"
+                android:layout_below="@id/imageView3"
+                android:layout_marginTop="@dimen/half_line"
+                android:src="@drawable/blue"
+                tools:ignore="ContentDescription" />
+
+            <CheckBox
+                android:id="@+id/RishadaCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageView4"
+                android:layout_alignLeft="@id/NajadaCheckBox"
+                android:layout_alignTop="@id/imageView4"
+                android:layout_toRightOf="@id/imageView4"
+                android:text="@string/rishada"
+                android:textSize="@dimen/normal_line"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignLeft="@+id/GroupIndicator"
+                android:layout_below="@id/imageView4"
+                android:layout_marginTop="@dimen/half_line"
+                android:src="@drawable/white"
+                tools:ignore="ContentDescription" />
+
+            <CheckBox
+                android:id="@+id/TolarieCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageView5"
+                android:layout_alignLeft="@id/RishadaCheckBox"
+                android:layout_alignTop="@id/imageView5"
+                android:layout_toRightOf="@id/imageView5"
+                android:text="@string/tolarie"
+                android:textSize="@dimen/normal_line"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignLeft="@+id/GroupIndicator"
+                android:layout_below="@id/imageView5"
+                android:layout_marginTop="@dimen/half_line"
+                android:src="@drawable/colorless"
+                tools:ignore="ContentDescription" />
+
+            <CheckBox
+                android:id="@+id/LotusCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageView6"
+                android:layout_alignLeft="@id/RytirCheckBox"
+                android:layout_alignTop="@id/imageView6"
+                android:layout_toRightOf="@id/imageView6"
+                android:text="@string/lotus"
+                android:textSize="@dimen/normal_line"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignLeft="@id/GroupIndicator"
+                android:layout_below="@id/imageView6"
+                android:layout_marginTop="@dimen/half_line"
+                android:src="@drawable/snow" />
+
+            <CheckBox
+                android:id="@+id/TopMagicCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageView7"
+                android:layout_alignLeft="@id/RytirCheckBox"
+                android:layout_alignTop="@id/imageView7"
+                android:layout_toRightOf="@id/imageView7"
+                android:text="@string/top_magic"
+                android:textSize="@dimen/normal_line"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="32dp"
+                android:layout_height="33dp"
+                android:layout_alignLeft="@+id/GroupIndicator"
+                android:layout_below="@+id/imageView7"
+                android:layout_marginTop="@dimen/half_line"
+                android:src="@drawable/check" />
+
+            <CheckBox
+                android:id="@+id/AllCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageView8"
+                android:layout_alignLeft="@id/RytirCheckBox"
+                android:layout_alignTop="@+id/imageView8"
+                android:layout_toRightOf="@id/imageView8"
+                android:onClick="checkAll"
+                android:text="@string/select_all"
+                android:textSize="@dimen/normal_line"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/ConfirmButton"
+            android:layout_width="180dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="@dimen/half_line"
+            android:layout_marginTop="@dimen/half_line"
+            android:background="@drawable/grey_button"
+            android:onClick="startSearch"
+            android:text="@string/hledej"
+            android:textSize="@dimen/normal_line"
+            android:typeface="normal" />
+
+        <ProgressBar
+            android:id="@+id/SearchProgress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/normal_line"
+            android:layout_marginTop="@dimen/half_line" />
+    </LinearLayout>
+
+</ScrollView><!-- From: file:/E:/GitHub/MTGKusovky/app/src/main/res/layout/activity_search.xml -->
